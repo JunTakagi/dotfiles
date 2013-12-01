@@ -1,0 +1,8 @@
+escape ^Zz
+
+startup_message off
+autodetach on
+vbell off
+
+caption always "%-w%{=b bw}%n %t%{-}%+w"
+hardstatus alwayslastline "%H%=%Y/%m/%d %02c"
