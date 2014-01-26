@@ -21,3 +21,5 @@ complete -f -W "_KNOWS_HOSTS_" scp
 
 alias ls="ls -F"
 alias ll="ls -lhF"
+alias javac="javac -J-Dfile.encoding=UTF-8"
+alias java="java -Dfile.encoding=UTF-8"
